@@ -1,4 +1,4 @@
-# 👋 Hi, I'm KonstiAnon!
+# 👋 Hi, I'm Konsti!
 
 🎓 **M.Sc. Informatics student at TUM**  
 🔬 Passionate about **Operating Systems, Computer Networks, and Low-Level Optimizations**
